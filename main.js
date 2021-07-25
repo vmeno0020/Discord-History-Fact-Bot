@@ -42,7 +42,3 @@ client.on('message', message =>{
         client.commands.get('Cram').execute(message, args)
     }
 });
-
-// log into the app
-
-client.login('ODY0NTY3NTY0Mzk0NjkyNjU4.YO3VSg.PxrWKSMWOmel6bX2SAx9LFy6-i4');
